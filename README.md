@@ -1,22 +1,11 @@
 <p align="center"><img src="preview.jpg?v=3" /></p>
-<h1 align="center">language-sl</h1>
-<p align="center">Slovenian translations for WonderCMS (by Robert Isoski)</p>
+<h1 align="center">language-fr</h1>
+<p align="center">French translations for WonderCMS (by Renaud ILTIS)</p>
 
 <br><br>
 
-This plugin adds Slovenian translations to the WonderCMS admin area, based on `https://github.com/StephanStanisic/zlanguage-nl_NL` (experimental version). Plugin author: Stephan Stanisic.
+This plugin adds French translations to the WonderCMS admin area, based on `https://github.com/StephanStanisic/zlanguage-nl_NL` (experimental version). Plugin author: Stephan Stanisic.
 
-# How to adapt to another language
-1. Fork this repository (which is the latest with all included translations): https://github.com/robiso/translation-slovenian/
-2. Rename repository to "translation-yourlanguage". (If you need help with renaming a repository: https://help.github.com/en/github/administering-a-repository/renaming-a-repository)
-3. Rename translation-slovenian.php to "translation-yourlanguage.php" (replace yourlanguage with your actual language).
-4. Make sure the repository name matches with the PHP file mentioned in point 3.
-5. Edit the SVG file (picture) directly on GitHub (or choose any other editor): https://github.com/robiso/translation-slovenian/edit/master/language-solid.svg
-- on line 78, change "Slovenian" to your language.
-6. Rename sl.csv to your country locale (list of country locales https://www.science.co.il/language/Locale-codes.php) and save.
-7. Translate the .csv file.
-8. Update summary file.
-9. Create a pull request to https://github.com/robiso/wondercms-cdn-files to the plugins-list file.
 
 ## How to use
 1. Login to your WonderCMS website.
