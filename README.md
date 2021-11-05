@@ -1,4 +1,4 @@
-<p align="center"><img src="preview.jpg?v=3" /></p>
+<p align="center"><img src="preview-fr.jpg?v=3" /></p>
 <h1 align="center">language-fr</h1>
 <p align="center">French translations for WonderCMS (by Renaud ILTIS)</p>
 
